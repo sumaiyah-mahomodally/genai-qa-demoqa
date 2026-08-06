@@ -34,6 +34,14 @@ It demonstrates end‑to‑end manual testing on a realistic web application, us
 
 ## What This Project Demonstrates
 
+### Requirement Analysis
+
+- Analyzed the Practice Form requirements to identify:
+  - Confirmed functional rules, including required and optional fields, validations, date restrictions, submission behavior, usability, performance, and accessibility.
+  - Missing requirements and clarification questions about field limits, special characters, error messages, confirmation-modal content, file uploads, dropdowns, accessibility standards, mobile support, and data persistence.
+  - Key risks related to user frustration, invalid data, accessibility, performance, future dates, file uploads, lost data, and unclear confirmation details.
+- Used this analysis as the foundation for test scenarios, test cases, and risk assessment.
+
 ### 1. End‑to‑End STLC on a Web Feature
 
 - Analyzed requirements for the **Practice Form** feature.
